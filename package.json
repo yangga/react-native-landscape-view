@@ -1,0 +1,31 @@
+{
+  "name": "react-native-landscape-view",
+  "version": "0.0.1",
+  "description": "Locked landscape orientation view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangga/react-native-landscape-view.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "landscape",
+    "orientaion",
+    "left",
+    "right"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangga/react-native-landscape-view/issues"
+  },
+  "homepage": "https://github.com/yangga/react-native-landscape-view#readme",
+  "devDependencies": {
+    "react": ">=15.0.0",
+    "react-native": "~0.50.4"
+  }
+}
