@@ -26,6 +26,6 @@
   "homepage": "https://github.com/yangga/react-native-landscape-view#readme",
   "devDependencies": {
     "react": ">=15.0.0",
-    "react-native": "~0.50.4"
+    "react-native": "~0.70.2"
   }
 }
